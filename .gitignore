@@ -1,0 +1,25 @@
+# 数据集（体积过大，不入库）
+data/
+
+# WandB 日志
+wandb/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+*.swp

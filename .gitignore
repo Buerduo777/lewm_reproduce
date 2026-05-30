@@ -23,3 +23,9 @@ env/
 # 系统
 .DS_Store
 *.swp
+
+# 笔记文件
+LECTURE-LeWM-JEPA.html
+LECTURE-LeWM-JEPA.md
+LECTURE-LeWM-JEPA.pdf
+PROBLEMSET-LeWM-JEPA.md
